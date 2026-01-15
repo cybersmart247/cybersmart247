@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Certificates:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Foundations of Cybersecurity (Certificate)</b>
+  - (https://github.com/cybersmart247/certificates/blob/main/Coursera%20WDF04673QP74.pdf))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
