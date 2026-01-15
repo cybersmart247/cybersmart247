@@ -1,4 +1,4 @@
-<h1>Hi, I'm Smart! <a href="https://www.linkedin.com/in/cybersmart247/">Cybersecurity Proffessional</a>,
+<h1>Hi, I'm Smart! <a href="https://www.linkedin.com/in/cybersmart247/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
